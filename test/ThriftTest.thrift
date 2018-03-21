@@ -36,7 +36,6 @@ namespace php ThriftTest
 namespace delphi Thrift.Test
 namespace cocoa ThriftTest
 namespace lua ThriftTest
-namespace xsd test (uri = 'http://thrift.apache.org/ns/ThriftTest')
 namespace netcore ThriftTest
 
 // Presence of namespaces and sub-namespaces for which there is
